@@ -1,0 +1,17 @@
+{
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
+  "catppuccin-icon-styles@@ctp-icon-hide": false,
+  "catppuccin-interface-styles@@ctp-bold-folder-title": false,
+  "catppuccin-tag-styles@@ctp-tag-pill": true,
+  "cupertino@@adaptive-mode-off": false,
+  "cupertino@@colorful-frame": true,
+  "cupertino@@tab-floating": true,
+  "cupertino@@hover-ribbon": false,
+  "cupertino@@focus-view": false,
+  "cupertino@@nav-action-center": false,
+  "cupertino@@tab-icon": false,
+  "cupertino@@status-bar-baseline": true,
+  "cupertino@@zoom-off": false,
+  "cupertino@@font-ui-modifier": 2,
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-lavender"
+}

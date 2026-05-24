@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("Notes")
+    order:
+      - file.name
+      - categories
+      - date
+  - type: table
+    name: View
