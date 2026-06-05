@@ -49,9 +49,9 @@ astha-it-codecamp/
 
 | Item          | Repo                                                                                       | Description                              | Status         |
 |---------------|--------------------------------------------------------------------------------------------|------------------------------------------|----------------|
-| Assignment 01 | [`astha-cc-assignment-01`](https://github.com/fardinkamal62/astha-cc-assignment-01-lateri) | Bus Ticket Booking & Billing System (C#) | 🚧 In Progress |
-| Assignment 02 | `astha-cc-assignment-02` (TBD)                                                             | —                                        | ⏳ Pending      |
-| Final Project | `astha-cc-final` (TBD)                                                                     | —                                        | ⏳ Pending      |
+| Assignment 01 | [`astha-cc-assignment-01`](https://github.com/fardinkamal62/astha-cc-assignment-01-lateri) | Bus Ticket Booking & Billing System (C#) | ✅ Finished    |
+| Assignment 02 | `astha-cc-assignment-02` (TBD)                                                             | —                                        | ⏳ Pending     |
+| Final Project | `astha-cc-final` (TBD)                                                                     | —                                        | ⏳ Pending     |
 
 ---
 
