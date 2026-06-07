@@ -15,11 +15,12 @@ All notes are personal summaries written in [Obsidian](https://obsidian.md/) (`.
 | 2 | Session 2 — Abstraction, Polymorphism, Interfaces, and Object Relationships | [`Session 2.md`](./lecture-notes/Session%202.md)                   |
 | 3 | Session 3 — Abstraction, Polymorphism, Interfaces, and Object Relationships | [`Session 3.md`](./lecture-notes/Session%203.md)                   |
 | 4 | Session 4 — Applying SOLID Principles in OOP Design                         | [`Session 4.md`](./lecture-notes/Session%204.md)                   |
-| 4 | C# Types                                                                    | [`Types.md`](./lecture-notes/Types.md)                             |
-| 5 | Access Modifiers                                                            | [`Access Modifiers.md`](./lecture-notes/Access%20Modifiers.md)     |
-| 6 | Memory Allocation (Stack vs Heap)                                           | [`Memory Allocation.md`](./lecture-notes/Memory%20Allocation.md)   |
-| 7 | Garbage Collection                                                          | [`Garbage Collection.md`](./lecture-notes/Garbage%20Collection.md) |
-| 8 | Exception Handling                                                          | [`Exception.md`](./lecture-notes/Exception.md)                     |
+| 5 | Session 5 — Creational & Behavioral Design Patterns in C#                                                        | [`Session 5.md`](./lecture-notes/Session%205.md)                   |
+| 6 | C# Types                                                                    | [`Types.md`](./lecture-notes/Types.md)                             |
+| 7 | Access Modifiers                                                            | [`Access Modifiers.md`](./lecture-notes/Access%20Modifiers.md)     |
+| 8 | Memory Allocation (Stack vs Heap)                                           | [`Memory Allocation.md`](./lecture-notes/Memory%20Allocation.md)   |
+| 9 | Garbage Collection                                                          | [`Garbage Collection.md`](./lecture-notes/Garbage%20Collection.md) |
+| 10 | Exception Handling                                                          | [`Exception.md`](./lecture-notes/Exception.md)                     |
 
 > **Tip:** Open the `lecture-notes` folder as an Obsidian vault for backlinks & graph view.
 
@@ -36,6 +37,7 @@ astha-it-codecamp/
 │   ├── Session 2.md
 │   ├── Session 3.md
 │   ├── Session 4.md
+│   ├── Session 5.md
 │   ├── Types.md
 │   ├── Access Modifiers.md
 │   ├── Memory Allocation.md
