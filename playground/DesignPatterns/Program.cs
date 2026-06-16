@@ -3,6 +3,7 @@ using DesignPatterns.Creational.AbstractFactoryMethod;
 using DesignPatterns.Creational.Builder;
 using DesignPatterns.Behavorial.Observer;
 using DesignPatterns.Behavorial.Strategy;
+using DesignPatterns.Structural;
 
 namespace DesignPatterns;
 
@@ -76,5 +77,17 @@ public class Program
 
         cart.SetPaymentStrategy(new PayPalPayment());
         cart.Checkout(200);
+
+
+        // Adapter Pattern
+        Console.WriteLine("\nAdapter Pattern:");
+        Laptop laptop = new Laptop();
+        EuropeanPlug europeanPlug = new EuropeanPlug();
+        SocketAdapter adapter = new SocketAdapter(europeanPlug);
+
+        laptop.Charge(adapter);
+
+        // Decorator Pattern
+        Console.WriteLine("\nDecorator Pattern:");
     }
 }
